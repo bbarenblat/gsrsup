@@ -32,7 +32,3 @@ custom build file to request a different profile:
   - `ninja -f buildconf/asan.ninja`: Build with AddressSanitizer.
   - `ninja -f buildconf/dbg.ninja`: Build for debugging.
   - `ninja -f buildconf/release.ninja`: Build with optimizations.
-
----
-
-This is not an official Google product.
